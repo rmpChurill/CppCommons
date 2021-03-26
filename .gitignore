@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Configuration files
+.config.hpp
+
+#Vs-Code configuration
+.vscode
+
+# build-file
+/build
+/CMakeFiles
